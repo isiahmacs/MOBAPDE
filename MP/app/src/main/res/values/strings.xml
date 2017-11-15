@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MP</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_log_in_activity">Login</string>
+    <string name="nv_register"><u>Not you? Click here.</u></string>
+    <string name="fa_icon_home">&#xE88A;</string>
+    <string name="fa_icon_home2">&#xf015;</string>
+    <string name="fa_icon_search">&#xE8B6;</string>
+    <string name="fa_icon_edit">&#xE3C9;</string>
+    <string name="fa_icon_user">&#xE853;</string>
+</resources>
